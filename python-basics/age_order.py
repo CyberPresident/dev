@@ -5,7 +5,7 @@ retired = 55
 age = int(input('your age: '))
 
 if age < teen:
-    print('your a fukin child')
+    print('your a child')
 elif age < adult:
     print(' you gettin a lil old nigga')
 elif age < retired:
