@@ -1,7 +1,7 @@
 .venv/
 __pycache__/
-cheat_sheet.py
-practice.py
+python-basics/cheat_sheet.py
+python-basics/practice.py
 .vscode
-cheat_sheet.cpp
-practice.cpp
+cpp/cheat_sheet.cpp
+cpp/practice.cpp
