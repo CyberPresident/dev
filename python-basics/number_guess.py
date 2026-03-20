@@ -6,9 +6,9 @@ while True:
     guess = int(input('your number: '))
 
     if guess > number:
-        print(f'{guess} is to high, try tf again')
+        print(f'{guess} is to high, try again')
     elif guess < number:
         print(f'{guess} is to low, try again')
     else:
-        print(f'{guess} is correctoooo')
+        print(f'{guess} is correct')
         break
